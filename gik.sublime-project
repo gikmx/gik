@@ -4,7 +4,13 @@
 		{
 			"file_exclude_patterns":
 			[
-				"gik.sublime-project"
+				"gik.sublime-project",
+				".gitignore",
+				"npm-debug.log"
+			],
+			"folder_exclude_patterns":
+			[
+				"node_modules"
 			],
 			"path": "."
 		}
