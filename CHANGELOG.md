@@ -1,4 +1,5 @@
-### [0.0.2] A small step for GIK a great leap for developers.
+### [0.0.3] A small step for GIK a great leap for developers.
+- `DEL` Removed `gulp-sourcemaps-support` module, «apparently» the bug it fixed is gone.
 - `DEL` Removed the `clean-docs` task.
 - `FIX` Updated the changelog.
 - `NEW` Added a README file.
