@@ -1,3 +1,6 @@
+### [0.0.4] It's all about the docs!
+- `FIX` Returned `clean-docs` and `docs` to their rightful place.
+
 ### [0.0.3] A small step for GIK a great leap for developers.
 - `DEL` Removed `gulp-sourcemaps-support` module, «apparently» the bug it fixed is gone.
 - `DEL` Removed the `clean-docs` task.

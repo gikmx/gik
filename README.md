@@ -45,10 +45,12 @@ to configure how the `ES6 Linter` behaves.
 
 ## What tasks are included?
 
-- `clean` Clean up build dirs.
+- `clean.build` Clean up build dirs.
+- `clean.docs` Clean up docs dirs.
 - `lint.test` Linter on test files.
 - `lint.src`  Linter on source files.
 - `lint` Lint for both test and source files.
+- `docs` Generate documentation (`gik-doc`)
 - `build` Run the ES6 transpiler (`Babel`) on the source files and puts them on build.
 - `test` Runs tests. (`Mocha` `Chai`)
 - `watch` Runs tests and watches for changes.

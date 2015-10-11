@@ -1,11 +1,9 @@
 {
   "name": "gik",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A gulp workflow for giks.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "Héctor Menéndez <etor@gik.mx> (http://gik.mx)",
   "license": "ISC",
   "engines": {
@@ -19,20 +17,20 @@
     "url": "https://github.com/gikmx/gik/issues"
   },
   "dependencies": {
-    "babel"                 : "^5.0.x",
-    "babel-eslint"          : "^4.1.3",
-    "chai"                  : "^3.3.0",
-    "chalk"                 : "^1.1.1",
-    "coveralls"             : "^2.11.x",
-    "del"                   : "^2.0.2",
-    "gulp"                  : "^3.8.x",
-    "gulp-babel"            : "^5.2.1",
-    "gulp-eslint"           : "^1.0.0",
-    "gulp-sourcemaps"       : "^1.5.x",
-    "gulp-spawn-mocha"      : "^2.0.x",
-    "lazypipe"              : "^1.0.1",
-    "mocha"                 : "^2.3.3",
-    "mocha-unfunk-reporter" : "^0.4.x"
+    "babel": "^5.0.x",
+    "babel-eslint": "^4.1.3",
+    "chai": "^3.3.0",
+    "chalk": "^1.1.1",
+    "coveralls": "^2.11.x",
+    "del": "^2.0.2",
+    "gulp": "^3.8.x",
+    "gulp-babel": "^5.2.1",
+    "gulp-eslint": "^1.0.0",
+    "gulp-gik-doc": "0.0.2",
+    "gulp-sourcemaps": "^1.5.x",
+    "gulp-spawn-mocha": "^2.0.x",
+    "lazypipe": "^1.0.1",
+    "mocha": "^2.3.3",
+    "mocha-unfunk-reporter": "^0.4.x"
   }
 }
-
