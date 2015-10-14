@@ -1,6 +1,6 @@
 {
   "name": "gik",
-  "version": "0.0.4",
+  "version": "0.0.4-b2",
   "description": "A gulp workflow for giks.",
   "main": "index.js",
   "scripts": {},

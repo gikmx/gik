@@ -1,4 +1,6 @@
-### [0.0.4] It's all about the docs!
+### [0.0.4-b2] It's all about the docs!
+- `FIX` Added `babel-runtime` as optional dependency on `README.md`
+- `FIX` Improved `README.md' and added `.eslintrc` example.
 - `FIX` Returned `clean-docs` and `docs` to their rightful place.
 
 ### [0.0.3] A small step for GIK a great leap for developers.
